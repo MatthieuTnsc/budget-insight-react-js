@@ -1,4 +1,4 @@
-# Budget Insight API axample using React JS + React-Bootstrap + Axios
+# Budget Insight API example using React JS + React-Bootstrap + Axios
 
 React JS example to consume the [Budget Insight API](http://budget-insight.com) endpoints.
 
