@@ -26,10 +26,10 @@ React JS example to consume the [Budget Insight API](http://budget-insight.com) 
 
 #### Configure app
 
-- Create .env file at the root and add Budget Insight base URL & client ID to it:
+Create .env file at the root and add Budget Insight base URL & client ID to it:
 
-  REACT_APP_API_BASE_URL = 'https://{your-app}.biapi.pro/2.0'
-  REACT_APP_API_CLIENT_ID = '{your-client-id}'
+     REACT_APP_API_BASE_URL = 'https://{your-app}.biapi.pro/2.0'
+     REACT_APP_API_CLIENT_ID = '{your-client-id}'$ npm install
 
 #### Start & watch
 
