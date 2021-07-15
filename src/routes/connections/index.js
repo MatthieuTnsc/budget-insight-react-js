@@ -14,12 +14,7 @@ class Connections extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      connection: {
-        id: 0,
-        name: "",
-        login: "",
-        password: "",
-      },
+      connection: {},
       connections: [],
       updateDlgFlg: false,
       deleteDlgFlg: false,
